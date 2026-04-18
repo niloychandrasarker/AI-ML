@@ -1,0 +1,3 @@
+Python helps us automate tasks.
+File handling stores data in text files.
+We can read and write files easily.
